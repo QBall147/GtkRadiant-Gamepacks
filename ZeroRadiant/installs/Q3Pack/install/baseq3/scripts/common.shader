@@ -348,18 +348,17 @@ textures/common/antiportal
 // ydnar: skip works like quake 2 hint: it doesn't generate bsp splits
 // use on sides of hint brushes where you don't want bsp splits or portals
 // add this to your common.shader file
-//textures/common/skip
-//{
-//	qer_nocarve
-//	qer_trans 0.30
-//	surfaceparm nodraw
-//	surfaceparm nonsolid
-//	surfaceparm structural
-//	surfaceparm trans
-//	surfaceparm noimpact
-//	surfaceparm skip
-//}
-
+textures/common/skip
+{
+	qer_nocarve
+	qer_trans 0.30
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm structural
+	surfaceparm trans
+	surfaceparm noimpact
+	surfaceparm skip
+}
 
 // Obsidian: same as skip but name changed to allow Radiant to filter both hint and skip
 textures/common/hintskip
