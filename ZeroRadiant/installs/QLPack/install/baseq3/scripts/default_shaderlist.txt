@@ -1,0 +1,51 @@
+//**********************************************************************//
+//	ql shaderlist.txt modified for gtkRadiant							//
+//	by QBall147 - 18 May 2012											//
+//                                                                      //
+//      Rev history:                                                    //
+//      05/18/2012														//
+//      QBall147 - initial												//
+//																		//
+//**********************************************************************//
+
+// this file lists all the separate shader files
+ad_content
+ad_trim
+base_button
+base_door
+base_floor
+base_floor2
+base_light
+base_object
+base_support
+base_trim
+base_wall
+base_wall2
+common
+ctf
+//eerie
+//gfx
+gfx2
+gothic_block
+gothic_button
+gothic_door
+gothic_floor
+gothic_floor2
+gothic_light
+gothic_trim
+gothic_wall
+liquid
+liquid2
+liquids
+organics
+proto2
+//q3map
+sfx
+sfx2
+skies
+skies2
+skin
+stone
+//stone2
+//team
+terrain
